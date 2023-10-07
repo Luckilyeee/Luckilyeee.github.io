@@ -9,7 +9,7 @@
 
 <li><strong>[Dec. 2022]</strong> Two papers are published by <a href="https://bigdataieee.org/BigData2022/">IEEE Big Data 2022</a> (one first-authored).</li>
 
-<li><strong>[Dec. 2022]</strong> Two papers are published by <a href="https://www.icmla-conference.org/icmla22/">ICMLA 2022</a>.</li>
+<li><strong>[Dec. 2022]</strong> Two papers are published by <a href="https://www.icmla-conference.org/icmla22/">ICMLA 2022</a> (one first-authored).</li>
 
 <li><strong>[Aug. 2022]</strong> Our paper titled "Motif-Guided Time Series Counterfactual Explanations"</a> is published by <a href="https://www.icpr2022.com/">2-nd Workshop on Explainable and Ethical AI – ICPR 2022</a>.</li>
 
