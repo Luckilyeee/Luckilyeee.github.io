@@ -4,17 +4,17 @@ main:
 url: ./#contact 
 right: true 
 
-- title: "Services"
-url: ./#services
+# - title: "Services"
+# url: ./#services
 
-- title: "Teaching"
-url: ./#teaching
+# - title: "Teaching"
+# url: ./#teaching
 
 - title: "Publications"
 url: ./#publications
 
-- title: "News"
-url: ./#news
+# - title: "News"
+# url: ./#news
 
 - title: "Bio"
 - url: ./#about-me
