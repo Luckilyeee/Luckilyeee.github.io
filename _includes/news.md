@@ -7,7 +7,7 @@
   
 <li><strong>[Aug. 2023]</strong> Two papers are published by <a href="https://www.dexa.org/dawak2023">DaWaK 2023: Big Data Analytics and Knowledge Discovery</a> (one first-authored).🎉</li>
 
-<li><strong>[Aug. 2023]</strong> I received financial support from NSF to attend the <a href="https://helioshine.org/workshop/">SHINE 2023 Workshop in Stowe, VT</a> to present my work "Fast Counterfactual Explanation for Solar Flare Prediction".😄</li>
+<li><strong>[Aug. 2023]</strong> I received financial support from NSF to attend the <a href="https://helioshine.org/workshop/">SHINE 2023 Workshop</a> in Stowe, VT to present my work "Fast Counterfactual Explanation for Solar Flare Prediction".😄</li>
 
 <li><strong>[Dec. 2022]</strong> Two papers are published by <a href="https://bigdataieee.org/BigData2022/">IEEE Big Data 2022</a> (one first-authored).</li>
 
