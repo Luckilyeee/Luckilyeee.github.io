@@ -3,7 +3,7 @@ title: Peiyu Li
 position: PhD candidate
 affiliation: Utah State University
 affiliation_link: https://www.usu.edu/cs/
-affiliation_logo: ./assets/img/usu logo white.png
+affiliation_logo: ./assets/usu_logo_white.png
 email: peiyu.li@usu.edu
 
 # Search Engine Optimization (SEO)
@@ -26,7 +26,7 @@ linkedin: https://www.linkedin.com/in/peiyu-li-1203371a4/
 # twitter: https://twitter.com/YaoyaoLiu1/
 
 # Images 
-avatar: ./assets/img/prof_pic.jpg
+avatar: ./assets/pro_pic.jpg
 # favicon: ./assets/img/favicon.png
 # favicon_dark: ./assets/img/favicon-dark.png
 
