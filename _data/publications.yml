@@ -60,7 +60,7 @@ main:
   - title: Motif-guided Time Series Counterfactual Explanations
     authors: <strong>Peiyu Li<sup>#</sup></strong>, Soukaina Filali Boubrahimi, Shah Muhammad Hamdi
     conference_short: ICPR
-    conference: ICPR 2022: Pattern Recognition, Computer Vision, and Image Processing. ICPR 2022 International Workshops and Challenges 
+    conference: "ICPR 2022: Pattern Recognition, Computer Vision, and Image Processing. ICPR 2022 International Workshops and Challenges"
     pdf: https://browse.arxiv.org/pdf/2211.04411.pdf
     # code: https://github.com/yaoyao-liu/meta-transfer-learning
     # page: https://lyy.mpi-inf.mpg.de/mtl/
