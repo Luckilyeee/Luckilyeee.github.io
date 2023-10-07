@@ -2,7 +2,7 @@
 title: Peiyu Li
 position: PhD candidate
 affiliation: Utah State University
-affiliation_link: https://cs.jhu.edu/
+affiliation_link: https://www.usu.edu/cs/
 affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
 email: peiyu.li@usu.edu
 
@@ -19,10 +19,10 @@ enable_last_update: false
 
 # Links
 link_type: text #text/icon
-google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
+google_scholar: https://scholar.google.com/citations?user=0VUNbKEAAAAJ&hl=en
 cv_link: https://pages.jh.edu/yliu538/files/Yaoyao_Liu_Curriculum_Vitae.pdf
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
+github_link: https://github.com/Luckilyeee
+linkedin: https://www.linkedin.com/in/peiyu-li-1203371a4/
 # twitter: https://twitter.com/YaoyaoLiu1/
 
 # Images 
@@ -37,7 +37,7 @@ footnote_link: https://github.com/yaoyao-liu/minimal-light
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
+# clustrmaps_id: l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
 
 # The following files will be removed from the generated website.
 exclude:
