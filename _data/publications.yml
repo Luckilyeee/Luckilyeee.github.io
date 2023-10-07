@@ -89,7 +89,7 @@ main:
     image: https://img.yliu.me/teaser/RMM.png
 
   - title: Achieving Hate Speech Detection in a Low Resource Setting
-    author: <strong>Peiyu Li<sup>#</sup></strong>
+    authors: <strong>Peiyu Li<sup>#</sup></strong>
     conference_short: USU
     conference: Utah State Univerisity
     pdf: https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=9237&context=etd
