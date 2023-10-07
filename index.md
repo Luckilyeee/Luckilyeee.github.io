@@ -19,8 +19,6 @@ My research centers around **machine learning, deep learning** and **data mining
 
 {% include_relative _includes/teaching.md %}
 
-{% include_relative _includes/talks.md %}
-
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/contact.md %}
