@@ -17,7 +17,7 @@ main:
     # image: https://img.yliu.me/teaser/dst.png
 
   - title: Shapelet-based Temporal Association Rule Mining for Multivariate Time Series Classification
-    authors: <strong>Omar Bahri<sup>#</sup></strong>, Peiyu Li, Soukaina Filali Boubrahimi, Shah Muhammad Hamdi
+    authors: <strong>Omar Bahri</strong>, Peiyu Li, Soukaina Filali Boubrahimi, Shah Muhammad Hamdi
     conference_short: Big Data
     conference: 2022 IEEE International Conference on Big Data 
     pdf: https://www.researchgate.net/profile/Omar_Bahri/publication/367471923_Shapelet-based_Temporal_Association_Rule_Mining_for_Multivariate_Time_Series_Classification/links/63d7f0a564fc860638fc8b00/Shapelet-based-Temporal-Association-Rule-Mining-for-Multivariate-Time-Series-Classification.pdf
