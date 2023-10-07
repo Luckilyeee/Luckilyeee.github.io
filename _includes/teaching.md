@@ -4,12 +4,12 @@
 
 <ul>
   <li>
-   TA, <a href="">Introduction to Computer Science</a>, 2019 Fall, 2020 Spring
+   TA, <a>Introduction to Computer Science</a>, 2019 Fall, 2020 Spring
   </li>
   <li>
-    TA, <a href="">Introduction to Event Driven Programming and GUI’s</a>, 2021 Fall
+    TA, <a>Introduction to Event Driven Programming and GUI’s</a>, 2021 Fall
   </li>
   <li>
-    TA, <a href="">Computer Systems Organization and Architecture</a>, 2022 Spring
+    TA, <a>Computer Systems Organization and Architecture</a>, 2022 Spring
   </li>
 </ul>
