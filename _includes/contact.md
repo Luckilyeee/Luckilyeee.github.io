@@ -2,10 +2,10 @@
 
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-<p><strong>Address:</strong> <a href="https://www.google.com/maps/place/Malone+Hall,+3400+N+Charles+St,+Baltimore,+MD+21218/@39.3262085,-76.6253679,17z/data=!3m1!4b1!4m6!3m5!1s0x89c804de59b4d18d:0x2d92398f0946a9ad!8m2!3d39.3262044!4d-76.6208832!16s%2Fg%2F11b6g45l_1?coh=164777&amp;entry=tt">3400 N. Charles St., Baltimore, MD 21218-2625</a>
+<p><strong>Address:</strong> <a href="https://www.google.com/maps/dir/41.7562624,-111.8502912/usu+cs+department/@41.7492982,-111.8693285,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x87547e80cabf3f4b:0xfc0e6b04a2fa8610!2m2!1d-111.813807!2d41.740736?entry=ttu">4205 Old Main Hill, Logan, UT 84322</a>
 <br />
-<strong>Office Location:</strong> Malone Hall 248
+<strong>Office Location:</strong> Office 404 Old Main Bldg
 <br />
-<strong>Email:</strong> <email>yliu538 (at) jhu.edu</email>
+<strong>Email:</strong> <email>peiyu.li (at) usu.edu</email>
 <br />
-<strong>Phone:</strong> (857) 209-8688</p>
+<strong>Phone:</strong> (435) 764-2311</p>
