@@ -26,7 +26,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:i-eWHC4A29UJ:scholar.google.com/&output=citation&scisdr=ClHz2MdhEPCgjIbLmgs:AFWwaeYAAAAAZSHNggsshpTnYIjn08oqzvMUab4&scisig=AFWwaeYAAAAAZSHNgm4O4u6e6p-2Ie3xmU9akls&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
     image: https://img.yliu.me/teaser/cvpr23_1.png
     
-  - title: SG-CF: Shapelet-Guided Counterfactual Explanation for Time Series Classification
+  - title: "SG-CF: Shapelet-Guided Counterfactual Explanation for Time Series Classification"
     authors: <strong>Peiyu Li<sup>#</sup></strong>, Omar Bahri, Soukaina Filali Boubrahimi, Shah Muhammad Hamdi
     conference_short: Big Data
     conference: 2022 IEEE International Conference on Big Data 
