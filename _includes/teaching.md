@@ -4,12 +4,12 @@
 
 <ul>
   <li>
-    Head TA, <a href="https://www.mpi-inf.mpg.de/hlcv">High-Level Computer Vision</a> at <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/teaching/courses-1">Max Planck Institute for Informatics</a>, 2022
+   TA, <a href="">Introduction to Computer Science</a>, 2019 Fall, 2020 Spring
   </li>
   <li>
-    TA, <a href="https://www.mpi-inf.mpg.de/hlcv">High-Level Computer Vision</a> at <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/teaching/courses-1">Max Planck Institute for Informatics</a>, 2021
+    TA, <a href="">Introduction to Event Driven Programming and GUI’s</a>, 2021 Fall
   </li>
   <li>
-    TA, <a href="">Digital Image Processing</a> at <a href="http://www.tju.edu.cn/english/index.htm/">Tianjin University</a>, 2017
+    TA, <a href="">Computer Systems Organization and Architecture</a>, 2022 Spring
   </li>
 </ul>
